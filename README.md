@@ -1,4 +1,4 @@
-<div class="fs-5"><p class="text-black mb-2 text-break">To set up a Docker Compose environment with MySQL 5.7, you'll need to create a <code style="background-color: rgb(40, 42, 54); padding: 3px; border-radius: 8px; color: white; cursor: pointer;">docker-compose.yml</code> file that defines the services required for your application, including MySQL. Below is a step-by-step guide on how to do this:</p></div>
+<div class="fs-5"><p class="text-black mb-2 text-break">Para configurar um ambiente Docker Compose com o MySQL 5.7, você precisará criar um <code style="background-color: rgb(40, 42, 54); padding: 3px; border-radius: 8px; color: white; cursor: pointer;">docker-compose.yml</code> Arquivo que define os serviços necessários para o seu aplicativo, incluindo o MySQL. Abaixo está um guia passo a passo sobre como fazer isso:</p></div>
 
 **Passo 1: Instale o Docker e o Docker Compose** \
 Certifique-se de ter o Docker e o Docker Compose instalados no seu sistema. Caso contrário, baixe e instale-os no site oficial do Docker.
